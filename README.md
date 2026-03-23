@@ -13,7 +13,7 @@ Este repositório contém o conjunto de entregas práticas desenvolvidas ao long
 
 ## 🗂️ Índice de Projetos
 
-### 🔹 Módulo 1: Extração e Análise Exploratória (Raw Data)
+### 🔹 Módulo 1: Extração e Análise Exploratória
 Foco na obtenção de dados de diversas fontes e compreensão inicial do dataset.
 
 | Lab | Atividade | Competências Demonstradas |
